@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <linearGradient id="bell" x1="12" y1="8" x2="51" y2="44" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fffdf6"/>
+      <stop offset=".7" stop-color="#ded4bd"/>
+      <stop offset="1" stop-color="#b89143"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="15" fill="#25241f"/>
+  <path d="M10 31C12.5 15.2 21.2 8 32 8s19.5 7.2 22 23c-5.3-2.2-10.3-3.3-15-3.8L32 14l-7 13.2c-4.7.5-9.7 1.6-15 3.8Z" fill="url(#bell)" stroke="#d5b66d" stroke-width="1.2"/>
+  <path d="M12 32c4-2 8-3.2 12-3.8M52 32c-4-2-8-3.2-12-3.8M32 13v16" fill="none" stroke="#7e642f" stroke-width="1"/>
+  <circle cx="16" cy="32.5" r="2" fill="#efab58"/>
+  <circle cx="48" cy="32.5" r="2" fill="#efab58"/>
+  <path d="M21 31c-1 8 2 15-2 24M28 29c2 8-3 17 0 27M36 29c-2 8 3 17 0 27M43 31c1 8-2 15 2 24" fill="none" stroke="#d5b66d" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M25 31c-4 6 2 11-3 18M39 31c4 6-2 11 3 18" fill="none" stroke="#9fc6bd" stroke-width="1" stroke-linecap="round"/>
+</svg>
